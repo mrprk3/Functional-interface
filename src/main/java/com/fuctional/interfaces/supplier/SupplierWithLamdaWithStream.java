@@ -1,5 +1,7 @@
 package com.fuctional.interfaces.supplier;
 
+//Supplier Functional interface : It has one abstract method called get()
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Supplier;
